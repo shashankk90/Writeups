@@ -1,2 +1,15 @@
-**Writeups for CSCG**  
-This was my first CTF
+# Writeups for CSCG
+This was my first CTF. These are the challenges I completed.
++ [Follow The White Rabbit - Cave](https://github.com/aPanther/Writeups/blob/master/CSCG/Follow%20The%20White%20Rabbit%20-%20Cave.md)
++ [Intro to Crypto 1](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Crypto%201.md)
++ [Intro to Crypto 2](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Crypto%202.md)
++ [Intro to Crypto 3](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Crypto%203.md)
++ [Intro to Pwning 1](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Pwning%201.md)
++ [Intro to Reversing 1](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Reversing%201.md)
++ [Intro to Reversing 2](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Reversing%202.md)
++ [Intro to Reversing 3](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Reversing%203.md)
++ [Intro to Stegano 1](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Stegano%201.md)
++ [Intro to Stegano 3](https://github.com/aPanther/Writeups/blob/master/CSCG/Intro%20to%20Stegano%203.md)
++ [Sanity Check](https://github.com/aPanther/Writeups/blob/master/CSCG/Sanity%20Check.md)
++ [reme Part 1](https://github.com/aPanther/Writeups/blob/master/CSCG/reme%20Part%201.md)
++ [win_eXPerience 1](https://github.com/aPanther/Writeups/blob/master/CSCG/win_eXPerience%201.md)
