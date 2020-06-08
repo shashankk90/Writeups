@@ -1,1 +1,1 @@
-**This repository contains writeups only**
+**This repository contains writeups**
