@@ -4,7 +4,7 @@
 
 We are given a `.mp3` file for this challenge. It contains some beeps with other noises over it. On opening the file with audacity, we can see it has two channels. One channel has a morse code and the other has noise.
 
-![mp3 file](https://github.com/shashankk90/Writeups/blob/master/KPMG/files/images/No remorse, No regret.png)
+![mp3 file](https://github.com/shashankk90/Writeups/blob/master/KPMG/files/images/No%20remorse,%20No%20regret.png)
 
 I extracted the file only channel and put it into an [online morse decoder](https://morsecode.world/international/decoder/audio-decoder-adaptive.html). It decoded to `RB.GY/3TPVV`
 This is the link to a zip file on the internet. On extracting the zip file, we get an image. The image contains the flag.
