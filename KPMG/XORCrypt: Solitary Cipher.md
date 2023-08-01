@@ -1,6 +1,7 @@
 # XORCrypt: Solitary Cipher
 
-> In the distant future, on the mysterious planet of Zenthia, a lone adventurer named Maya discovered an ancient artifact known as the XORbit. This enigmatic device held inmense power and could only be activated with a single character key. As she embarked on a perilous quest to decipher the code, dark forces from across the galaxy pursued her, eager to harness the XORbit's abilities for their malevolent intentions. Help her decrypt the message
+> In the distant future, on the mysterious planet of Zenthia, a lone adventurer named Maya discovered an ancient artifact known as the XORbit. This enigmatic device held inmense power and could only be activated with a single character key. As she embarked on a perilous quest to decipher the code, dark forces from across the galaxy pursued her, eager to harness the XORbit's abilities for their malevolent intentions. Help her decrypt the message.
+
 We are also given a file `Cipher.txt`
 The title and description of the challenge hints towards use of a single character XOR key encryption. I wrote a simple program to bruteforce the key. The given cipher only contains characters from hexadecimal implying its in hexadecimal form.
 
