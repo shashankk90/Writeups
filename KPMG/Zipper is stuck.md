@@ -5,8 +5,8 @@
 We are given wireshark capture file.
 On examining the packets, we can see that there are some http requests. One of the request contains a GET request to flag.zip file and the response contains the zip file. We can extract this file using wireshark. 
 
-![wireshark]()
-![wireshark]()
+![wireshark](KPMG/files/images/Zipper is stuck1.png)
+![wireshark](KPMG/files/images/Zipper is stuck2.png)
 
 The zip file is password protected using 3 digit lock. I wrote a simple script to try all the 3 digit passwords.
 
