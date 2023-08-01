@@ -96,3 +96,7 @@ UNLOCK TABLES;
 ```
 
 We can see that there is a user with `admin` as username and password. It also has TOTP field with value `YDTN2JY6CWKSK6PB3HNOAY4APASUVREM`. This is the seed for Time based OTP generator. When we use the credentials to login, it asks us for a 6 digit OTP. I used an [online TOTP generator](https://totp.danhersam.com/) to generate the OTP.
+
+![](./files/images/otp1.png)
+![](./files/images/otp2.png)
+![](./files/images/otp3.png)

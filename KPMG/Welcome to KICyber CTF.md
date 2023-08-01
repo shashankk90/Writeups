@@ -6,3 +6,5 @@
 
 
 This is introductory challenge to the CTF. The website has terminal with few commands. We use the `ls` command to list the files. There is `flag.txt` file. We can view this file using the `cat` command.
+
+![](./files/images/welcome.png)
